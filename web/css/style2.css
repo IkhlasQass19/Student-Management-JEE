@@ -1,0 +1,41 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 26 oct. 2019, 22:28:06
+    Author     : lenovo
+*/
+h3 {
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+
+table {
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
+  margin-left: 25%;
+  width: 50%;
+  margin-bottom: 100px;
+}
+
+thead {
+  background: #4e73df;
+  color: white;
+}
+
+th,
+td {
+  padding: 5px 10px;
+}
+
+tbody tr:nth-child(even) {
+  background: WhiteSmoke;
+}
+
+tbody tr td:nth-child(3),
+tbody tr td:nth-child(4) {
+  text-align: right;
+  font-family: monospace;
+}

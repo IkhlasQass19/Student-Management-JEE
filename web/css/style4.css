@@ -1,0 +1,58 @@
+/* Votre code CSS corrigé */
+
+.pricingTable {
+  margin: 40px auto;
+}
+
+.pricingTable-title {
+  text-align: center;
+  color: #6e768d;
+  font-size: 3em;
+  font-size: 300%;
+  margin-bottom: 20px;
+  letter-spacing: 0.04em;
+}
+
+.pricingTable-subtitle {
+  text-align: center;
+  color: #b4bdc6;
+  font-size: 1.8em;
+  letter-spacing: 0.04em;
+  margin-bottom: 60px;
+}
+
+.pricingTable-firstTable {
+  list-style: none;
+  padding-left: 2em;
+  padding-right: 2em;
+  text-align: center;
+}
+
+.pricingTable-table {
+  vertical-align: middle;
+  width: 31%;
+  background-color: #ffffff;
+  display: inline-block;
+  padding: 0px 30px 40px;
+  text-align: center;
+  max-width: 320px;
+  transition: all 0.3s ease;
+  border-radius: 5px;
+}
+
+/* ... (le reste de votre code) ... */
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 100%;
+  background-color: #f0f4f7;
+  color: #717787;
+}
+
+/* ... (le reste de votre code) ... */
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<BDSW>
+    <!-- Table Admin -->
+    <Admin>
+        <Admin SOM="1234567" Nom="Qassimi" Prenom="somaya" Password="admin" CIN="h1236" />
+
+    </Admin>
+
+    <!-- Table Etudiant -->
+    <Etudiants>
+
+        <Etudiant CNE="H1234" Apogee="160000" Nom="Qassimi" Prenom="Ikhlas" CIN="F1234"
+            password="1234" SOM="12345" sexe="femme" DateN="18/05/2001" />
+
+        <Etudiant CNE="H4321" Apogee="160002" Nom="Ferhat" Prenom="Oumaima" CIN="S1234"
+            password="5678" SOM="123457" sexe="femme" DateN="06/02/2002" />
+        <Etudiant CNE="H4323" Apogee="160003" Nom="Bouzga" Prenom="Oumnia" CIN="S1234"
+            password="5677" SOM="134567" sexe="femme" DateN="30/05/2001" />
+        <Etudiant CNE="H4327" Apogee="160004" Nom="Elfaquir" Prenom="Ihssan" CIN="S1234"
+            password="5679" SOM="1234567" sexe="femme" DateN="06/06/2001" />
+
+    </Etudiants>
+
+    <!-- Table Inscrire -->
+    <Inscrire>
+        <Inscrire CNE="H1234" Id_module="1" annee="2021/2022" />
+        <Inscrire CNE="H1234" Id_module="2" annee="2021/2022" />
+        <Inscrire CNE="H1234" Id_module="3" annee="2021/2022" />
+        <Inscrire CNE="H1234" Id_module="4" annee="2021/2022" />
+        <Inscrire CNE="H1234" Id_module="5" annee="2021/2022" />
+        <Inscrire CNE="H1234" Id_module="6" annee="2021/2022" />
+        <Inscrire CNE="H1234" Id_module="7" annee="2021/2022" />
+        <Inscrire CNE="H1234" Id_module="8" annee="2021/2022" />
+        <Inscrire CNE="H1234" Id_module="9" annee="2021/2022" />
+        <Inscrire CNE="H1234" Id_module="10" annee="2021/2022" />
+        <Inscrire CNE="H1234" Id_module="11" annee="2021/2022" />
+        <Inscrire CNE="H1234" Id_module="12" annee="2021/2022" />
+        <Inscrire CNE="H4321" Id_module="13" annee="2021/2022" />
+        <Inscrire CNE="H4321" Id_module="14" annee="2021/2022" />
+        <Inscrire CNE="H4321" Id_module="15" annee="2021/2022" />
+        <Inscrire CNE="H4321" Id_module="16" annee="2021/2022" />
+        <Inscrire CNE="H4321" Id_module="17" annee="2021/2022" />
+        <Inscrire CNE="H4321" Id_module="18" annee="2021/2022" />
+        <Inscrire CNE="H4321" Id_module="1" annee="2021/2022" />
+        <Inscrire CNE="H4321" Id_module="2" annee="2021/2022" />
+        <Inscrire CNE="H4321" Id_module="3" annee="2021/2022" />
+        <Inscrire CNE="H4321" Id_module="4" annee="2021/2022" />
+        <Inscrire CNE="H4321" Id_module="5" annee="2021/2022" />
+        <Inscrire CNE="H4321" Id_module="6" annee="2021/2022" />
+        <Inscrire CNE="H4323" Id_module="1" annee="2021/2022" />
+        <Inscrire CNE="H4323" Id_module="2" annee="2021/2022" />
+        <Inscrire CNE="H4323" Id_module="3" annee="2021/2022" />
+        <Inscrire CNE="H4323" Id_module="4" annee="2021/2022" />
+        <Inscrire CNE="H4323" Id_module="5" annee="2021/2022" />
+        <Inscrire CNE="H4327" Id_module="6" annee="2021/2022" />
+        <Inscrire CNE="H4327" Id_module="1" annee="2021/2022" />
+        <Inscrire CNE="H4327" Id_module="2" annee="2021/2022" />
+        <Inscrire CNE="H4327" Id_module="3" annee="2021/2022" />
+        <Inscrire CNE="H4327" Id_module="4" annee="2021/2022" />
+        <Inscrire CNE="H4327" Id_module="5" annee="2021/2022" />
+        <Inscrire CNE="H4327" Id_module="6" annee="2021/2022" />
+
+    </Inscrire>
+
+
+    <!-- Table Module -->
+    <Modules>
+        <Module Id_module="1" intitule="Intelligence Artificiel" semestre="1" />
+        <Module Id_module="2" intitule="Bases de Donnees Avancee" semestre="1" />
+        <Module Id_module="3" intitule="Cryptographie" semestre="1" />
+        <Module Id_module="4" intitule="JEE" semestre="1" />
+        <Module Id_module="5" intitule="Nouvelles Technologie IP" semestre="1" />
+        <Module Id_module="6" intitule="Anglais scientifique" semestre="1" />
+        <Module Id_module="7" intitule="Genie logicielle" semestre="2" />
+        <Module Id_module="8" intitule="Moteurs de Recherche" semestre="2" />
+        <Module Id_module="9" intitule="Datawarehouse" semestre="2" />
+        <Module Id_module="10" intitule="Datamining" semestre="2" />
+        <Module Id_module="11" intitule="Conceptions et Application repartie" semestre="2" />
+        <Module Id_module="12" intitule="Anglais scientifique" semestre="2" />
+        <Module Id_module="13" intitule="Algorithmique Parallele" semestre="3" />
+        <Module Id_module="14" intitule="Services Web" semestre="3" />
+        <Module Id_module="15" intitule="Gestion de Projets" semestre="3" />
+        <Module Id_module="16" intitule="Securite Informatique" semestre="3" />
+        <Module Id_module="17" intitule="Ingenierie Linguistique" semestre="3" />
+        <Module Id_module="18" intitule="Traitement d'Images" semestre="3" />
+        <Module Id_module="19" intitule="Stage" semestre="4" />
+    </Modules>
+
+
+    <!-- Table Note -->
+    <Notes>
+
+        <Note Id="1" note="18" session="o" CNE="H1234" Id_module="1" />
+        <Note Id="2" note="13" session="o" CNE="H1234" Id_module="2" />
+        <Note Id="3" note="19" session="o" CNE="H1234" Id_module="3" />
+        <Note Id="4" note="8" session="o" CNE="H1234" Id_module="4" />
+        <Note Id="5" note="7.5" session="o" CNE="H1234" Id_module="5" />
+        <Note Id="6" note="13" session="r" CNE="H1234" Id_module="4" />
+        <Note Id="7" note="19" session="r" CNE="H1234" Id_module="5" />
+        <Note Id="8" note="-1" session="o" CNE="H1234" Id_module="6" />
+        <Note Id="9" note="10" session="o" CNE="H1234" Id_module="7" />
+        <Note Id="10" note="11" session="o" CNE="H1234" Id_module="8" />
+        <Note Id="11" note="8" session="o" CNE="H1234" Id_module="9" />
+        <Note Id="12" note="18" session="o" CNE="H1234" Id_module="10" />
+        <Note Id="13" note="11" session="o" CNE="H1234" Id_module="11" />
+        <Note Id="14" note="18" session="o" CNE="H1234" Id_module="12" />
+        <Note Id="15" note="10" session="o" CNE="H4321" Id_module="13" />
+        <Note Id="16" note="12" session="o" CNE="H4321" Id_module="14" />
+        <Note Id="17" note="15" session="o" CNE="H4321" Id_module="15" />
+        <Note Id="18" note="14" session="o" CNE="H4321" Id_module="16" />
+        <Note Id="19" note="12" session="o" CNE="H4321" Id_module="17" />
+        <Note Id="20" note="13" session="o" CNE="H4321" Id_module="19" />
+        <Note Id="21" note="19" session="o" CNE="H4321" Id_module="1" />
+        <Note Id="22" note="12" session="o" CNE="H4321" Id_module="2" />
+        <Note Id="23" note="15" session="o" CNE="H4321" Id_module="3" />
+        <Note Id="24" note="10" session="o" CNE="H4321" Id_module="4" />
+        <Note Id="25" note="11" session="o" CNE="H4321" Id_module="5" />
+        <Note Id="26" note="13" session="o" CNE="H4321" Id_module="6" />
+        <Note Id="1" note="19" session="o" CNE="H4327" Id_module="1" />
+        <Note Id="2" note="13" session="o" CNE="H4327" Id_module="2" />
+        <Note Id="3" note="19" session="o" CNE="H4327" Id_module="3" />
+        <Note Id="4" note="8" session="o" CNE="H4327" Id_module="4" />
+        <Note Id="5" note="7.5" session="o" CNE="H4327" Id_module="5" />
+        <Note Id="6" note="13" session="r" CNE="H4327" Id_module="4" />
+        <Note Id="7" note="19" session="r" CNE="H4327" Id_module="5" />
+        <Note Id="8" note="-1" session="o" CNE="H4327" Id_module="6" />
+        <Note Id="9" note="10" session="o" CNE="H4327" Id_module="7" />
+        <Note Id="10" note="11" session="o" CNE="H4327" Id_module="8" />
+        <Note Id="11" note="8" session="o" CNE="H4327" Id_module="9" />
+        <Note Id="12" note="18" session="o" CNE="H4327" Id_module="10" />
+        <Note Id="13" note="11" session="o" CNE="H4327" Id_module="11" />
+        <Note Id="14" note="18" session="o" CNE="H4327" Id_module="12" />
+        <Note Id="15" note="10" session="o" CNE="H4323" Id_module="13" />
+        <Note Id="16" note="12" session="o" CNE="H4323" Id_module="14" />
+        <Note Id="17" note="15" session="o" CNE="H4323" Id_module="15" />
+        <Note Id="18" note="14" session="o" CNE="H4323" Id_module="16" />
+        <Note Id="19" note="12" session="o" CNE="H4323" Id_module="17" />
+        <Note Id="20" note="13" session="o" CNE="H4323" Id_module="19" />
+        <Note Id="21" note="18" session="o" CNE="H4323" Id_module="1" />
+        <Note Id="22" note="12" session="o" CNE="H4323" Id_module="2" />
+        <Note Id="23" note="15" session="o" CNE="H4323" Id_module="3" />
+        <Note Id="24" note="10" session="o" CNE="H4323" Id_module="4" />
+        <Note Id="25" note="11" session="o" CNE="H4323" Id_module="5" />
+        <Note Id="26" note="13" session="o" CNE="H4323" Id_module="6" />
+    </Notes>
+
+</BDSW>
