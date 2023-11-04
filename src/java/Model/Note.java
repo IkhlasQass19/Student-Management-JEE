@@ -7,7 +7,7 @@ package Model;
 
 /**
  *
- * @author kh
+ * @author ikhlas
  */
 public class Note {
     private int Id;

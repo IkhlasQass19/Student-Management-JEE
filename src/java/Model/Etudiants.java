@@ -14,7 +14,7 @@ import org.jdom2.input.SAXBuilder;
 
 /**
  *
- * @author kh
+ * @author ikhlas
  */
 public class Etudiants {
     private String CNE;

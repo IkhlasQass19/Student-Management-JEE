@@ -9,7 +9,7 @@ import Model.Module;
 
 /**
  *
- * @author kh
+ * @author ikhlas
  */
 public class Inscrire {
     private Etudiants etudiant;

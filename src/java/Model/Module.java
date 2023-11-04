@@ -7,7 +7,7 @@ package Model;
 
 /**
  *
- * @author kh
+ * @author ikhlas
  */
 public class Module {
     private int Id_module;

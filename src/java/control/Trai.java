@@ -27,7 +27,7 @@ import org.json.simple.JSONObject;
 
 /**
  *
- * @author kh
+ * @author ikhlas
  */
 public class Trai {
     

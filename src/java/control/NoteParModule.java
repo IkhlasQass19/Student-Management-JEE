@@ -20,7 +20,7 @@ import org.jdom2.JDOMException;
 
 /**
  *
- * @author kh
+ * @author ikhlas
  */
 @WebServlet(name = "NoteParModule", urlPatterns = {"/NoteParModule"})
 public class NoteParModule extends HttpServlet {
